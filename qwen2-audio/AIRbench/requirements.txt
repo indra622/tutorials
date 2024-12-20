@@ -1,0 +1,8 @@
+transformers
+shortuuid
+openai
+jsonlines
+func_timeout
+librosa
+torch
+tqdm
