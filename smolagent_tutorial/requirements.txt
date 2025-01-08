@@ -1,0 +1,5 @@
+langchain 
+google-search-results
+smolagents
+accelerate
+python-dotenv
