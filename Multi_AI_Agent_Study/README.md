@@ -1,6 +1,7 @@
 # Advanced AI Agent Projects with LangGraph
 
 This repository contains my personal notes, implementations, and insights derived from studying and experimenting with **LangGraph** and advanced multi-AI agent systems. The projects in this repository focus on building sophisticated AI agents that demonstrate practical real-world applications.
+[Class](https://cdn.day1company.io/prod/uploads/202411/154145-1154/-%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4--%EA%B5%90%EC%9C%A1%EA%B3%BC%EC%A0%95%EC%86%8C%EA%B0%9C%EC%84%9C-%EB%AA%A8%EB%91%90%EC%9D%98-ai-%EC%BC%80%EC%9D%B8%EC%9D%98-langgraph%EB%A1%9C-%EB%81%9D%EB%82%B4%EB%8A%94-%EB%A9%80%ED%8B%B0-ai-agent-ft.-5%EA%B0%80%EC%A7%80-advanced-ai-agent-%EA%B5%AC%EC%B6%95-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)
 
 > **Disclaimer:**  
 > While the code and concepts in this repository are **restructured and rewritten** based on general study and experimentation, they are inspired by structured learning materials. This repository is intended for **personal learning and public sharing** purposes only.
